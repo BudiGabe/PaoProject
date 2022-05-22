@@ -1,0 +1,4 @@
+May 22, 2022 2:00:16 PM com.example.mdsback.services.LoggingService <init>
+INFO: My first log
+May 22, 2022 2:00:35 PM com.example.mdsback.services.LoggingService log
+INFO: Searching for playlist with id1
